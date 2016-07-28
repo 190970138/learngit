@@ -31,7 +31,7 @@ public class Test extends HttpServlet {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("===========");
+		System.out.println("====这是首简单的小情歌，唱着我们的爱河=======");
 	}
 
 }
